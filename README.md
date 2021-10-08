@@ -1,4 +1,4 @@
-# Image-Processing-Using-KNN
+# Image-Processing-Using-KNN (KNN-Smoothing)
 Image Processing using KNN (K Nearest Neighbours Algorithim)
 
 
